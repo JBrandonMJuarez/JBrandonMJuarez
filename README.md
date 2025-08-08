@@ -1,38 +1,36 @@
 # Hello, there! I'm Brandon Juarez
 Welcome to my personal Git repository. Here, you can find projects that summarize my experience in design and development across different languages and platforms.
 
-## Content
-There is a summary about my GitHub
-
-### Projects. 
-They are generally classified by the type of platform on which they are developed, as well as their implementation. However, they all summarize my coding skills across different languages.
-###" HDL y FPGA.
-Design and synthesis of digital hardware using Verilog and/or VHDL and its implementation on FPGA-based boards.
-    1. Microprocesador Monociclo RISC-V
-    2. Interfaz GPIO para microcesador monociclo RISC-V
+## Projects. 
+They are generally classified by the type of platform on which they are developed, as well as their implementation. However, they all reflect my coding skills across different languages.
+### HDL and FPGA.
+Design and synthesis of digital hardware using Verilog and/or VHDL, and its implementation on FPGA-based boards.
+    1. Single-Cycle RISC-V Microprocessor
+    2. GPIO Interface for Single-Cycle RISC-V Microprocessor
     3. DDS
-#### Microcontroladores
-Proyectos de codificación en C para microcontroladores PIC18F4550.
-    1. Sistema genérico para monitoreo
-    2. Monitoreo de corriente
-    3. Banda de peso
+#### Microcontrollers
+Coding projects in C for PIC18F4550 microcontrollers.
+    1. Generic Monitoring System
+    2. Current Monitoring
+    3. Weighing Belt
 #### DSP
-Proyectos de codificación en C y ensamblador para tarjetas DSK6713 con DSP TMS320C6713
-    1. Filtros FIR
-    2. Ecualizador
-    3. Codificación de FFT
-    4. Implementación de FFT
-    5. Codificación de filtro adaptativo
-    6. DDS de señal seno
-    7. DDS de señal multiseno
-#### Programas y scripts
-Código fuente de algunos programas o scripts
-* Papers. Se encuentra información sobre los artículos de divulgación tecnológica que he escrito y se han publicado en alguna revista o memoria de congreso.
-  * Procesamiento digital y reconocimiento de patrones de señales EMG en FPGA
-  * Análisis de algoritmos de filtrado digital en hardware y software embebido
-  * Análisis y comparación de algoritmos de filtrado digital en DSP y FPGA
+Coding projects in C and Assembly for DSK6713 boards with TMS320C6713 DSP.
+    1. FIR Filters
+    2. Equalizer
+    3. FFT Coding
+    4. FFT Implementation
+    5. Adaptive Filter Coding
+    6. Sine Wave DDS
+    7. Multi-Sine Wave DDS
+#### Programs and scripts
+Source code for various programs or scripts
+## Papers
+Information about the technology dissemination articles I have written and published in journals or conference proceedings.
+  * Digital Processing and Pattern Recognition of EMG Signals on FPGA
+  * Analysis of Digital Filtering Algorithms in Embedded Hardware and Software
+  * Analysis and Comparison of Digital Filtering Algorithms on DSP and FPGA
 
-Para acceder al código fuente de algún proyecto específico, a las simulaciones o a algún paper
+To access the source code of a specific project, simulations, or any paper
 
 <!--
 **JBrandonMJuarez/JBrandonMJuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
