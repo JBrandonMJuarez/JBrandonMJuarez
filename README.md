@@ -5,9 +5,9 @@ Welcome to my personal GitHub. Here, you can find projects that summarize my exp
 They are generally classified by the type of platform on which they are developed, as well as their implementation. However, they all reflect my coding skills across different languages.
 ### HDL and FPGA.
 Design and synthesis of digital hardware using Verilog and/or VHDL, and its implementation on FPGA-based boards.
-* [Single-Cycle RISC-V Microprocessor]()
+* [Single-Cycle RISC-V Microprocessor](https://github.com/JBrandonMJuarez/RISC-V-SingleCycleCore)
 * [GPIO Interface for microprocessors](https://github.com/JBrandonMJuarez/IOInterfaz-RISCV)
-* [GPIO Interfaz implemented with Single-Cycle RISC-V Microprocessor](https://github.com/JBrandonMJuarez/RISCV-Monocycle-IOInterfaz)
+* [GPIO Interfaz implemented with Single-Cycle RISC-V Microprocessor](https://github.com/JBrandonMJuarez/RISCV-SingleCycle-IOInterfaz)
 * [DDS for multiple applications](https://github.com/JBrandonMJuarez/DDS-FPGA)
 * [FIR Filter with development board FPGA with ADC on chip](https://github.com/JBrandonMJuarez/FIR-ADC)
 * [FIR Filter with microcontroller for ADC reading and DAC](https://github.com/JBrandonMJuarez/FIR-FPGA-MICRO)
