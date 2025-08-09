@@ -6,7 +6,7 @@ They are generally classified by the type of platform on which they are develope
 ### HDL and FPGA.
 Design and synthesis of digital hardware using Verilog and/or VHDL, and its implementation on FPGA-based boards.
 * [Single-Cycle RISC-V Microprocessor](https://github.com/JBrandonMJuarez/RISC-V-SingleCycleCore)
-* [GPIO Interface for microprocessors](https://github.com/JBrandonMJuarez/IOInterfaz-RISCV)
+* [GPIO Interface for microprocessors](https://github.com/JBrandonMJuarez/IOInterfaz)
 * [GPIO Interfaz implemented with Single-Cycle RISC-V Microprocessor](https://github.com/JBrandonMJuarez/RISCV-SingleCycle-IOInterfaz)
 * [DDS for multiple applications](https://github.com/JBrandonMJuarez/DDS-FPGA)
 * [FIR Filter with development board FPGA with ADC on chip](https://github.com/JBrandonMJuarez/FIR-ADC)
