@@ -1,5 +1,5 @@
 # Hello, there! I'm Brandon Juarez
-Welcome to my personal GitHub. Here, you can find projects that summarize my experience in design and development across different languages and platforms.
+Welcome to my personal GitHub. Here, you can find some projects that summarize my experience in design and development across different languages and platforms.
 
 ## Projects. 
 They are generally classified by the type of platform on which they are developed, as well as their implementation. However, they all reflect my coding skills across different languages.
