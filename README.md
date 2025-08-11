@@ -34,7 +34,7 @@ Information about the technology dissemination articles I have written and publi
   * Analysis of Digital Filtering Algorithms in Embedded Hardware and Software
   * Analysis and Comparison of Digital Filtering Algorithms on DSP and FPGA
 
-To access the source code of a specific project, simulations, or any paper
+
 
 <!--
 **JBrandonMJuarez/JBrandonMJuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
